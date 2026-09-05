@@ -61,7 +61,7 @@ cd app
 npm install
 
 npm run dev          # web app on http://localhost:5173
-npm test             # 21 vitest assertions against the thesis reference values
+npm test             # 28 vitest & smoke-test assertions against the thesis reference values
 npm run build        # type-check + production build to dist/
 
 npm run electron:dev # desktop shell around the Vite dev server
