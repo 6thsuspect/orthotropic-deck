@@ -82,4 +82,3 @@ npm run electron:pack   # package with electron-builder
 ## Repository
 
 - `Finite Element Design of Orthotropic_CHALMERS.pdf` – source document (Chalmers, 2015).
-- Work branch: `arena/01a070a0-orthotropic-deck`.
